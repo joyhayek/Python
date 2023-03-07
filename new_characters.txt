@@ -1,0 +1,21 @@
+Batman
+Bruce Wayne
+h 6 2 0 4 80 
+The Joker
+Jack Napier
+v 5 1 0 4 80 
+Superman
+Clark Kent
+h 7 4 0 3 100 
+Aquaman
+Arthur Curry
+h 8 2 2 4 30 
+Iron Man
+Tony Stark
+h 10 6 3 1 50 
+Hulk
+Bruce Banner
+h 7 2 1 4 80 
+The Flash
+Barry Allen
+h 0 0 0 0 100 
